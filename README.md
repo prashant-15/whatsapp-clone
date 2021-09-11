@@ -1,3 +1,10 @@
+This is a whatsapp clone that allows chat in real time with ui similar to whatsapp and basic information about messages.
+
+It uses mongoose and pusher for its backend.
+Backend: https://github.com/prashant-15/whatsapp-clone-backend
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
